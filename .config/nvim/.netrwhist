@@ -1,4 +1,0 @@
-let g:netrw_dirhistmax  =10
-let g:netrw_dirhistcnt =2
-let g:netrw_dirhist_2='/home/jokke/Code/droneprojekti/Product-Design-and-Implementation/.git'
-let g:netrw_dirhist_1='/home/jokke/Mbed Programs/mbed-os-example-blinky/mbed-os/cmake_build/UNITTESTS/CMakeFiles'
